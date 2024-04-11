@@ -1,0 +1,13 @@
+$  git common commands  $
+$  git config --global user.name "munan"
+$  git config --global user.email "2487173597@qq.com"
+$  ssh-keygen -t rsa -C "2487173597@qq.com"
+$  ssh -T git@github.com
+$  git clone .git-address
+$  git init
+$  git status
+$  git add .
+$  git commit -m "First commit"
+$  git log
+$  git diff
+$  git diff HEAD
