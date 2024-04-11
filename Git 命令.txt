@@ -15,4 +15,5 @@ $  git branch
 $  git checkout -b feature-A
 $  git branch feature-A
 $  git checkout feature-A
-$  git merge
+$  git merge --no-ff feature-A
+$  git log --graph
