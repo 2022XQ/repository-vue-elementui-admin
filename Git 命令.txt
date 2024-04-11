@@ -1,4 +1,4 @@
-$  git common commands  $
+#  git common commands
 $  git config --global user.name "munan"
 $  git config --global user.email "2487173597@qq.com"
 $  ssh-keygen -t rsa -C "2487173597@qq.com"
@@ -17,3 +17,8 @@ $  git branch feature-A
 $  git checkout feature-A
 $  git merge --no-ff feature-A
 $  git log --graph
+$  git reset --hard 44ebfb2fc61600764f07c5d59ce3ee1e20e25f9b
+$  git reflog
+$  git remote add origin git@github.com:2022XQ/repository-vue-elementui-admin.git
+$  git push -u origin main
+$  
