@@ -11,3 +11,8 @@ $  git commit -m "First commit"
 $  git log
 $  git diff
 $  git diff HEAD
+$  git branch
+$  git checkout -b feature-A
+$  git branch feature-A
+$  git checkout feature-A
+$  git merge
